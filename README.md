@@ -21,7 +21,7 @@
 
 
 Examples:
-![Lex plot image example](http://prntscr.com/o8v7ax)
+![Lex plot image example][http://prntscr.com/o8v7ax.]
 
 
 
