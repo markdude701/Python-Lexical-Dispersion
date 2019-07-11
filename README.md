@@ -1,6 +1,6 @@
 # Python-Lexical-Dispersion
 
-## A Juypter Notebook Python file useing NLTK, requests, mathplotlib, math, os, and bs4 to collect text from a webpage, write the data into a file, and then further examined using NTLK.
+## A Juypter Notebook Python file using NLTK, requests, mathplotlib, math, os, and bs4 to collect text from a webpage, write the data into a file, and then further examined using NTLK.
 
 ## Concepts Covered:
 - **Requests** - Reading text file from web page
